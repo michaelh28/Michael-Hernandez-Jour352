@@ -109,7 +109,8 @@ font-weight: 400;
 .top{
   width: 60%;
   min-width: 300px;
-  margin: 0auto;
-  margin-bottom; 30px;
+  margin: 0 auto;
+  margin-bottom; 30 px;
+  text-align: center;
 
 }
