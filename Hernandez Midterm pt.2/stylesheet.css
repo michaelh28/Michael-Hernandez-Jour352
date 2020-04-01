@@ -1,0 +1,59 @@
+/*headline*/
+h1{
+
+  text-align: center;
+  font-size: 70px;
+  font: serif;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+
+Subhead{
+font-weight: bold;
+font-size: 35px;
+font-family: sans-serif;
+}
+
+p{
+font-size: 20px;
+font: "Helvetica", arial, sans-serif;
+
+}
+body{
+  font-size: 12px;
+}
+
+caption{
+  text-transform: capitalize;
+  font-weight: 30;
+
+
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#content{
+  align-content: center;
+  column-fill: auto;
+}
+
+blockquote{
+  display: block;
+  border-width: 2px 0;
+  border-style: solid;
+  padding: 1.5em;
+  margin: 1.5em 0;
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+color: #FF8C00
+
+}
